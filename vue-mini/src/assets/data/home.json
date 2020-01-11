@@ -1,0 +1,210 @@
+[{
+	"title":"上海迪士尼乐园",
+	"like":"1",
+	"type":"乐园",
+	"cellImg":"/upload/product/cellImg1.jpg",
+	"comment":"&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;",
+	"starNum":5,
+	"commentNum":283463,
+	"price":399,
+	"message":"全球最大的迪士尼",
+	"address":"浦东新区",
+	"coordinate":{
+		"x":121.671964,
+		"y":31.148267
+	},
+	"tip":"随买随用",	
+	"detail":{
+		"name":"迪士尼乐园",
+		"score":4.9,
+		"detailAddress":"上海浦东新区川沙迪士尼乐园内",
+		"referInfo":{
+			"time":"8:00-22:00； 最晚入园时间20:30。 迪士尼乐园-全球奇幻旅行：10:00-21:30",
+			"free":"1、现役军人凭有效证件可免费参观东方明珠上球体+陈列馆；2、1米以下儿童免票。"
+		},
+		" feature":{
+			"img":"",
+			"featuerTitle":"加勒比海盗船",
+			"mess":"加勒比海盗船，让您全方位360度尽收申城的林 立高楼、纵横大道、卧波长桥、争流百响。"
+		}
+	},
+	"list":[
+		{
+			"ticketName":"【即买即用】迪士尼上海·超值家庭套票",
+			"message":"21:00前购买随用",
+			"perprice":599,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"无需购票",
+				"isreturn":"不可退"
+			}			
+		},
+		{
+			"ticketName":"【限时抢购】悬空玻璃栈道+历史陈列馆成人票",
+			"message":"明日可预订",
+			"perprice":399,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"",
+				"isreturn":"不可退"
+			}
+		}
+		
+	]
+},{
+	"title":"上海东方明珠",
+	"type":"城市",
+	"like":1,
+	"cellImg":"/upload/product/cellImg3.jpg",
+	"comment":"&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;",
+	"starNum":4,
+	"commentNum":"28342",
+	"price":200,
+	"message":"259米悬空餐厅了解一下~",
+	"address":"浦东新区",
+	"coordinate":{
+		"x":121.507381,
+		"y":31.24509
+	},
+	"tip":"随买随用",	
+	"detail":{
+		"name":"东方明珠（AAAAA景区）",
+		"score":4.9,
+		"detailAddress":"上海浦东新区世纪大道1号",
+		"referInfo":{
+			"time":"8:00-22:00； 最晚入园时间21:30。 东方明珠地标乐园-全球奇幻旅行：10:00-21:30",
+			"free":"1、现役军人凭有效证件可免费参观东方明珠上球体+陈列馆；2、1米以下儿童免票。 "
+		},
+		" feature":{
+			"img":"",
+			"featuerTitle":"空中旋转餐厅",
+			"mess":"空中旋转餐厅每2小时旋转一圈的设计，让您全方位360度尽收申城的林 立高楼、纵横大道、卧波长桥、争流百响。"
+		}
+	},
+	"list":[
+		{
+			"ticketName":"【即买即用】东方明珠看上海·超值票成人票",
+			"message":"21:00前购买随用",
+			"perprice":185,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"无需购票",
+				"isreturn":"不可退"
+			}			
+		},
+		{
+			"ticketName":"【限时抢购】东方明珠+悬空玻璃栈道+历史陈列馆成人票",
+			"message":"明日可预订",
+			"perprice":95,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"",
+				"isreturn":"不可退"
+			}
+		}		
+	]
+},{
+	"title":"野生动物园",
+	"type":"生态",
+	"like":0,
+	"cellImg":"/upload/product/cellImg4.jpg",
+	"comment":"&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;",
+	"starNum":4,
+	"commentNum":"28342",
+	"price":200,
+	"message":"259米悬空餐厅了解一下~",
+	"address":"浦东新区",
+	"coordinate":{
+		"x":121.727995,
+		"y":31.06138
+	},
+	"tip":"随买随用",	
+	"detail":{
+		"name":"野生动物园（AAAA景区）",
+		"score":4.9,
+		"detailAddress":"上海浦东新区世纪大道1号",
+		"referInfo":{
+			"time":"8:00-22:00； 最晚入园时间21:30。 东方明珠地标乐园-全球奇幻旅行：10:00-21:30",
+			"free":"1、现役军人凭有效证件可免费参观东方明珠上球体+陈列馆；2、1米以下儿童免票。 "
+		},
+		" feature":{
+			"img":"",
+			"featuerTitle":"空中旋转餐厅",
+			"mess":"空中旋转餐厅每2小时旋转一圈的设计，让您全方位360度尽收申城的林 立高楼、纵横大道、卧波长桥、争流百响。"
+		}
+	},
+	"list":[
+		{
+			"ticketName":"【即买即用】野生动物园上海·超值票成人票",
+			"message":"21:00前购买随用",
+			"perprice":185,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"无需购票",
+				"isreturn":"不可退"
+			}			
+		},
+		{
+			"ticketName":"【限时抢购】野生动物园+悬空玻璃栈道+历史陈列馆成人票",
+			"message":"明日可预订",
+			"perprice":95,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"",
+				"isreturn":"不可退"
+			}
+		}		
+	]
+},{
+	"title":"欢乐谷",
+	"type":"乐园",
+	"like":0,
+	"cellImg":"/upload/product/cellImg2.jpg",
+	"comment":"&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;&#xe7bb;",
+	"starNum":4,
+	"commentNum":"28342",
+	"price":450,
+	"message":"259米悬空餐厅了解一下~",
+	"address":"松江",
+	"coordinate":{
+		"x":121.227512,
+		"y":31.094609
+	},
+	"tip":"随买随用",	
+	"detail":{
+		"name":"欢乐谷（游乐场）",
+		"score":4.9,
+		"detailAddress":"上海松江佘山1号",
+		"referInfo":{
+			"time":"8:00-22:00； 最晚入园时间21:30。 东方明珠地标乐园-全球奇幻旅行：10:00-21:30",
+			"free":"1、现役军人凭有效证件可免费参观东方明珠上球体+陈列馆；2、1米以下儿童免票。 "
+		},
+		" feature":{
+			"img":"",
+			"featuerTitle":"空中旋转餐厅",
+			"mess":"空中旋转餐厅每2小时旋转一圈的设计，让您全方位360度尽收申城的林 立高楼、纵横大道、卧波长桥、争流百响。"
+		}
+	},
+	"list":[
+		{
+			"ticketName":"【即买即用】欢乐谷·超值票成人票",
+			"message":"21:00前购买随用",
+			"perprice":420,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"无需购票",
+				"isreturn":"不可退"
+			}			
+		},
+		{
+			"ticketName":"【限时抢购】野生动物园+悬空玻璃栈道+历史陈列馆成人票",
+			"message":"明日可预订",
+			"perprice":460,
+			"tips":{
+				"isziying":"自营",
+				"isbuy":"",
+				"isreturn":"不可退"
+			}
+		}		
+	]
+}]
